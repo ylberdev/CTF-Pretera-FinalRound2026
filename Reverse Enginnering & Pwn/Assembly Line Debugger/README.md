@@ -1,6 +1,6 @@
 # Assembly Line Debugger
 
-**Points: 200**
+**Points: 500**  
 **Hint:** A corrupted game ROM has been discovered from a classic arcade machine. The binary contains a bug that prevents access to the secret level. Your task is to analyze the assembly code, identify the bug, and patch it.
 
 ## Solution
