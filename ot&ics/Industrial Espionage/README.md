@@ -8,6 +8,6 @@
 
 ## Solution
 
-4/5 PLCs compromised 
-5/7 recipes extracted
-Flag partially assembled: CSC26{[???]_PLC_3sp1on@ge}
+4/5 PLCs compromised   
+5/7 recipes extracted  
+Flag partially assembled: CSC26{[???]_PLC_3sp1on@ge}  
