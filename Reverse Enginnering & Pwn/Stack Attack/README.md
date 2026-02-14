@@ -1,6 +1,6 @@
 # Stack Attack
 
-**Points: 200**
+**Points: 500**
 **Hint:** A classic buffer overflow
 
 ## Solution
