@@ -1,6 +1,6 @@
 # Serial Killer
 
-**Points: 400**
+**Points: 400**  
 **Hint:** TechCorp Solutions is a leading enterprise Java development company that prides itself on security. However, beneath their polished exterior lies a critical vulnerability that could compromise their entire infrastructure.
 
 ## Solution
